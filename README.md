@@ -1,4 +1,4 @@
-# Data-visualization
+# Data-visualization using Plotly
 
 1. Barchart
 2. Scatter plot
